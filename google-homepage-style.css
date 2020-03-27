@@ -1,0 +1,17 @@
+#googleLogo {
+  margin: 100px;
+  border: 15px solid green;
+  position: center;
+  width: 450px;
+  height: 350px;
+}
+
+#google-search {
+  position: center;
+  padding-right: 100px;
+  width: 600px;
+  height: 25px;
+}
+
+
+  
